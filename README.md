@@ -1,9 +1,9 @@
 # OCRail
-Rust implementation of windows OCR to guardrail execution of payload to a given wallpaper
+Rust implementation of windows OCR to extract text from the wallpaper
 
 ## Overview
 
-This library allows the retrieval text present within the computer wallpaper for later comparison between this and a given value.
+This library allows the retrieval of text present within the computer wallpaper for later comparison between this and a given value.
 
 ## Usage
 
